@@ -1,6 +1,6 @@
 # calculator
 
-Flutter project which is forcus for practice about riverpod and codemagic.
+Flutter project which is forcus for practice about riverpod, hooks and codemagic.
 
 
 ## Getting Started
